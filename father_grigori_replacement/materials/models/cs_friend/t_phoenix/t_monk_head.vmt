@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\cs_friend\t_phoenix\t_monk_head"
+	"$bumpmap" "models/cs_friend/t_phoenix\t_monk_head_normal"
+}
